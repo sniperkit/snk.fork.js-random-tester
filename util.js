@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 /**
  * Util file to create random inputs and other helper methods
  * Created by Pankajan on 21/07/2016.
